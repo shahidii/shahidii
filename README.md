@@ -1,28 +1,26 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
 <h1 align="center">Hi, I'm Muhammed Shahid C 👋</h1>
-<h3 align="center">Full Stack Developer | Software Mentor | DIY Tech Builder</h3>
+<h3 align="center">Full Stack Developer | Software Mentor | Tech Enthusiast</h3>
+
 
 <table>
   <tr>
-    <td>
+    <!-- Left Column: About Text -->
+    <td width="60%">
+      <ul>
+        <li><strong>Full Stack Developer</strong> with strong experience in web and backend technologies</li>
+        <li>Passionate about building, fixing, and improving digital systems</li>
+        <li>Experienced trainer and mentor focused on teaching modern development practices</li>
+        <li>Skilled in solving complex tech problems and creating hands-on DIY solutions</li>
+      </ul>
+    </td>
 
-<!-- About text on the left -->
-<ul style="font-size: 16px; font-weight: 600; line-height: 1.9;">
-  <li>Full Stack Developer with strong experience in web and backend technologies</li>
-  <li>Passionate about building, fixing, and improving digital systems</li>
-  <li>Experienced trainer and mentor focused on teaching modern development practices</li>
-  <li>Skilled in solving complex tech problems and creating hands-on DIY solutions</li>
-</ul>
-
-</td>
-<td>
-
-<!-- Coding gif on the right -->
-<img src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" width="320" alt="Coding gif" />
-
-</td>
-</tr>
+    <!-- Right Column: GIF -->
+    <td width="40%" align="center">
+      <img src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" alt="Coding gif" width="250" />
+    </td>
+  </tr>
 </table>
 
 ---
