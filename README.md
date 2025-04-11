@@ -5,29 +5,34 @@
 
 ---
 
-## 🧑‍💻 About Me
+<div style="display: flex; align-items: flex-start; gap: 30px;">
 
-<p style="font-size:17px; font-weight:600; line-height: 1.8;">
+<div style="flex: 1; font-size: 18px; font-weight: 600; line-height: 2.2;">
+
 • Full Stack Developer with strong experience in web and backend technologies  
-<br>  
+<br><br>
 • Passionate about building, fixing, and improving digital systems  
-<br>  
+<br><br>
 • Experienced trainer and mentor focused on teaching modern development practices  
-<br>  
+<br><br>
 • Skilled in solving complex tech problems and creating hands-on DIY solutions  
-</p>
 
-<img src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" width="320" alt="Coding gif"/>
+</div>
+
+<div>
+  <img src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" width="320" alt="Coding gif" />
+</div>
+
+</div>
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-### 🔤 Languages & Frameworks  
-&nbsp;&nbsp;&nbsp;&nbsp;• JavaScript, TypeScript, HTML5, CSS3, Sass  
-&nbsp;&nbsp;&nbsp;&nbsp;• React, Next.js, Node.js, Express.js, NestJS  
-&nbsp;&nbsp;&nbsp;&nbsp;• PostgreSQL, MongoDB  
-&nbsp;&nbsp;&nbsp;&nbsp;• Bootstrap, Tailwind CSS
+### 🧠 Languages & Frameworks
+- <span style="font-size: 16px;">JavaScript, TypeScript, HTML5, CSS3, Sass</span>  
+- <span style="font-size: 16px;">React, Next.js, Node.js, Express.js, NestJS</span>  
+- <span style="font-size: 16px;">PostgreSQL, MongoDB</span>  
 
 ### 🎨 UI & Styling
 - <span style="font-size: 16px;">Tailwind CSS, Bootstrap</span>  
@@ -57,4 +62,3 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shahidii&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-
