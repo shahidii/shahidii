@@ -1,8 +1,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
 <h1 align="center">Hi, I'm Muhammed Shahid C 👋</h1>
-
----
+<br>
 
 <h3 align="center">Full Stack Developer | Software Mentor | Tech Enthusiast</h3>
 <br>
@@ -22,7 +21,9 @@
     </td>
   </tr>
 </table>
+<br>
 
+---
 
 ## 🛠️ Skills & Technologies
 
