@@ -7,25 +7,21 @@
 
 <div style="display: flex; align-items: flex-start; gap: 30px;">
 
-<div style="flex: 1; font-size: 18px; font-weight: 600; line-height: 2.2;">
+  <div style="flex: 1; font-size: 16px; font-weight: 600; line-height: 1.9;">
+    • Full Stack Developer with strong experience in web and backend technologies <br>
+    • Passionate about building, fixing, and improving digital systems <br>
+    • Experienced trainer and mentor focused on teaching modern development practices <br>
+    • Skilled in solving complex tech problems and creating hands-on DIY solutions
+  </div>
 
-• Full Stack Developer with strong experience in web and backend technologies  
-<br><br>
-• Passionate about building, fixing, and improving digital systems  
-<br><br>
-• Experienced trainer and mentor focused on teaching modern development practices  
-<br><br>
-• Skilled in solving complex tech problems and creating hands-on DIY solutions  
-
-</div>
-
-<div>
-  <img src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" width="320" alt="Coding gif" />
-</div>
+  <div>
+    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" width="320" alt="About image" />
+  </div>
 
 </div>
 
 ---
+
 
 ## 🛠️ Skills & Technologies
 
