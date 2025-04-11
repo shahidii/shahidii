@@ -23,7 +23,6 @@
   </tr>
 </table>
 
----
 
 ## 🛠️ Skills & Technologies
 
