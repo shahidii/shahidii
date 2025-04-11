@@ -46,15 +46,15 @@
 ## 🌐 Connect with Me
 
 <p>
-  <a href="https://dev.to/shahidcodez" target="_blank">
+<!--   <a href="https://dev.to/shahidcodez" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/muhammed-shahid-c-9526b2287/" target="_blank">
+  </a> -->
+  <a href="https://www.linkedin.com/in/muhammed-shahid-c-dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/shahiid.io" target="_blank">
+<!--   <a href="https://instagram.com/shahiid.io" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
+  </a> -->
 </p>
 
 <p align="left">
