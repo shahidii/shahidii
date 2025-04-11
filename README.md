@@ -5,8 +5,10 @@
 
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 30px;">
+<!-- About section layout: text on left, gif on right -->
+<div style="display: flex; align-items: flex-start; gap: 30px; margin-top: 30px;">
 
+  <!-- Text on the left -->
   <div style="flex: 1; font-size: 16px; font-weight: 600; line-height: 1.9;">
     • Full Stack Developer with strong experience in web and backend technologies <br>
     • Passionate about building, fixing, and improving digital systems <br>
@@ -14,8 +16,9 @@
     • Skilled in solving complex tech problems and creating hands-on DIY solutions
   </div>
 
+  <!-- Gif on the right -->
   <div>
-    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" width="320" alt="About image" />
+    <img src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" width="320" alt="Coding gif" />
   </div>
 
 </div>
