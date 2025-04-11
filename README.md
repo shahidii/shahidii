@@ -5,14 +5,23 @@
 
 ---
 
-- <span style="font-size: 17px;">Full Stack Developer with strong experience in web and backend technologies</span>  
-- <span style="font-size: 17px;">Passionate about building, fixing, and improving digital systems</span>  
-- <span style="font-size: 17px;">Experienced trainer and mentor focused on teaching modern development practices</span>  
-- <span style="font-size: 17px;">Skilled in solving complex tech problems and creating hands-on DIY solutions</span>  
+<table>
+  <tr>
+    <td>
 
-<p align="center">
-  <img src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" width="460" alt="Coding animation" />
+<p style="font-size:17px; font-weight:600;">
+• Full Stack Developer with strong experience in web and backend technologies  
+<br>• Passionate about building, fixing, and improving digital systems  
+<br>• Experienced trainer and mentor focused on teaching modern development practices  
+<br>• Skilled in solving complex tech problems and creating hands-on DIY solutions  
 </p>
+
+   </td>
+   <td>
+     <img src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" width="320" alt="Coding gif"/>
+   </td>
+  </tr>
+</table>
 
 ---
 
