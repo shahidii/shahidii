@@ -6,8 +6,8 @@
 
 <table>
   <tr>
-    <!-- Left Column: About Text -->
-    <td width="60%">
+    <!-- Left side: Text -->
+    <td style="width: 60%; vertical-align: top;">
       <ul>
         <li><strong>Full Stack Developer</strong> with strong experience in web and backend technologies</li>
         <li>Passionate about building, fixing, and improving digital systems</li>
@@ -16,9 +16,9 @@
       </ul>
     </td>
 
-    <!-- Right Column: GIF -->
-    <td width="40%" align="center">
-      <img src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" alt="Coding gif" width="250" />
+    <!-- Right side: GIF -->
+    <td style="width: 40%;" align="center">
+      <img src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" alt="Coding gif" width="250">
     </td>
   </tr>
 </table>
