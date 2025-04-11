@@ -3,12 +3,11 @@
 <h1 align="center">Hi, I'm Muhammed Shahid </h1>
 <br>
 <h3 align="center">Full Stack Developer | Software Mentor | Tech Enthusiast</h3>
-
----
+<br>
 
 <table>
   <tr>
-    <td>
+    <td style="list-style: none; font-size: 16px; font-weight: 600; line-height: 2;">
       
 - Full Stack Developer with strong experience in web and backend technologies  
 - Passionate about building, fixing, and improving digital systems  
@@ -24,7 +23,6 @@
 
 
 
----
 
 
 
