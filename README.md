@@ -3,27 +3,27 @@
 <h1 align="center">Hi, I'm Muhammed Shahid C 👋</h1>
 <h3 align="center">Full Stack Developer | Software Mentor | Tech Enthusiast</h3>
 
+---
 
-<table>
-  <tr>
-    <!-- Left Column: Points -->
-    <td style="width: 60%; vertical-align: top;">
-      <ul>
-        <li><strong>Full Stack Developer</strong> with strong experience in web and backend technologies</li>
-        <li>Passionate about building, fixing, and improving digital systems</li>
-        <li>Experienced trainer and mentor focused on teaching modern development practices</li>
-        <li>Skilled in solving complex tech problems and creating hands-on DIY solutions</li>
-      </ul>
-    </td>
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 30px;">
 
-    <!-- Right Column: GIF -->
-    <td style="width: 40%;" align="center">
-      <img src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" alt="Coding gif" width="250">
-    </td>
-  </tr>
-</table>
+  <div style="flex: 1;">
+    <ul style="list-style: none; padding: 0; font-size: 16px; font-weight: 600; line-height: 1.9;">
+      <li>• Full Stack Developer with strong experience in web and backend technologies</li>
+      <li>• Passionate about building, fixing, and improving digital systems</li>
+      <li>• Experienced trainer and mentor focused on teaching modern development practices</li>
+      <li>• Skilled in solving complex tech problems and creating hands-on DIY solutions</li>
+    </ul>
+  </div>
+
+  <div>
+    <img src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" width="320" alt="Coding gif" />
+  </div>
+
+</div>
 
 ---
+
 
 
 ## 🛠️ Skills & Technologies
