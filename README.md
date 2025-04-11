@@ -1,7 +1,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
-<h1 align="center">Muhammed Shahid C</h1>
-<h3 align="center">Full Stack Developer | Software Mentor | Tech Enthusiast</h3>
+<h1 align="center">Hey 👋, I'm Muhammed Shahid C</h1>
+<h3 align="center">Full Stack Developer | Software Mentor | DIY Tech Builder</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shahidii&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -9,18 +9,22 @@
 
 <table>
 <tr>
-<td>
+<td style="width:60%">
 
-### About Me
+<h3 style="font-size: 20px;">About Me</h3>
 
-- Full Stack Developer with strong experience in web and backend technologies  
-- Passionate about building, fixing, and improving digital systems  
-- Experienced trainer and mentor, focused on teaching modern development practices  
-- Skilled in solving complex tech problems and creating hands-on DIY solutions  
+<div style="font-size: 17px">
+<ul>
+  <li><strong>Full Stack Developer</strong> with strong experience in web and backend technologies</li>
+  <li>Passionate about building, fixing, and improving digital systems</li>
+  <li>Experienced trainer and mentor, focused on teaching modern development practices</li>
+  <li>Skilled in solving complex tech problems and creating hands-on DIY solutions</li>
+</ul>
+</div>
 
 </td>
-<td>
-  <img src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" width="300" alt="coding" />
+<td style="vertical-align: middle;">
+  <img src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" width="380" alt="coding" />
 </td>
 </tr>
 </table>
@@ -29,22 +33,35 @@
 
 ### 🧠 Skills & Technologies
 
-#### 🖥️ Languages & Frameworks
-- ⚙️ JavaScript, TypeScript, HTML5, CSS3, Sass  
-- ⚛️ React, Next.js, Node.js, Express.js, NestJS  
-- 🛢️ PostgreSQL, MongoDB  
+#### Languages & Frameworks
+<div style="font-size: 16px">
+<ul>
+  <li>JavaScript, TypeScript, HTML5, CSS3, Sass</li>
+  <li>React, Next.js, Node.js, Express.js, NestJS</li>
+  <li>PostgreSQL, MongoDB</li>
+</ul>
+</div>
 
-#### 🎨 UI & Styling
-- 💎 Tailwind CSS, Bootstrap  
+#### UI & Styling
+<div style="font-size: 16px">
+<ul>
+  <li>Tailwind CSS, Bootstrap</li>
+</ul>
+</div>
 
-#### 🧰 Tools & Other Technologies
-- 🔧 Git & GitHub  
-- 🐧 Linux & CLI tools  
-- 🧱 Redis, Socket.IO, Microservices (used in real projects)  
-- 🔌 Arduino (for hands-on IoT and DIY tech)
+#### Tools & Other Technologies
+<div style="font-size: 16px">
+<ul>
+  <li>Git & GitHub</li>
+  <li>Linux & CLI tools</li>
+  <li>Redis, Socket.IO, Microservices (used in real projects)</li>
+  <li>Arduino (for hands-on IoT and DIY tech)</li>
+</ul>
+</div>
 
+---
 
-### Connect with Me
+### 📬 Connect with Me
 
 <p align="left">
   <a href="https://dev.to/shahidcodez" target="_blank">
