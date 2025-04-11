@@ -6,22 +6,19 @@
 
 ---
 
-<table style="border: none; border-collapse: collapse;">
-  <tr>
-    <td style="border: none; vertical-align: top; padding-right: 20px;">
-      <ul style="list-style: none; font-size: 16px; font-weight: 600; line-height: 2;">
-        <li>• Full Stack Developer with strong experience in web and backend technologies</li>
-        <li>• Passionate about building, fixing, and improving digital systems</li>
-        <li>• Experienced trainer and mentor focused on teaching modern development practices</li>
-        <li>• Skilled in solving complex tech problems and creating hands-on DIY solutions</li>
-      </ul>
-    </td>
-    <td style="border: none;">
-      <img src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" width="300" alt="Coding gif" style="border-radius: 8px;" />
-    </td>
-  </tr>
-</table>
-
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <div style="flex: 1;">
+    <ul style="list-style: none; padding: 0; font-size: 16px; font-weight: 600; line-height: 2;">
+      <li>• Full Stack Developer with strong experience in web and backend technologies</li>
+      <li>• Passionate about building, fixing, and improving digital systems</li>
+      <li>• Experienced trainer and mentor focused on teaching modern development practices</li>
+      <li>• Skilled in solving complex tech problems and creating hands-on DIY solutions</li>
+    </ul>
+  </div>
+  <div>
+    <img src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" width="300" alt="Coding gif" style="border-radius: 8px;" />
+  </div>
+</div>
 
 ---
 
