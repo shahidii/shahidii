@@ -5,32 +5,29 @@
 
 ---
 
-<table>
-  <tr>
-    <td>
+## 🧑‍💻 About Me
 
-<p style="font-size:17px; font-weight:600;">
+<p style="font-size:17px; font-weight:600; line-height: 1.8;">
 • Full Stack Developer with strong experience in web and backend technologies  
-<br>• Passionate about building, fixing, and improving digital systems  
-<br>• Experienced trainer and mentor focused on teaching modern development practices  
-<br>• Skilled in solving complex tech problems and creating hands-on DIY solutions  
+<br>  
+• Passionate about building, fixing, and improving digital systems  
+<br>  
+• Experienced trainer and mentor focused on teaching modern development practices  
+<br>  
+• Skilled in solving complex tech problems and creating hands-on DIY solutions  
 </p>
 
-   </td>
-   <td>
-     <img src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" width="320" alt="Coding gif"/>
-   </td>
-  </tr>
-</table>
+<img src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" width="320" alt="Coding gif"/>
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-### 🧠 Languages & Frameworks
-- <span style="font-size: 16px;">JavaScript, TypeScript, HTML5, CSS3, Sass</span>  
-- <span style="font-size: 16px;">React, Next.js, Node.js, Express.js, NestJS</span>  
-- <span style="font-size: 16px;">PostgreSQL, MongoDB</span>  
+### 🔤 Languages & Frameworks  
+&nbsp;&nbsp;&nbsp;&nbsp;• JavaScript, TypeScript, HTML5, CSS3, Sass  
+&nbsp;&nbsp;&nbsp;&nbsp;• React, Next.js, Node.js, Express.js, NestJS  
+&nbsp;&nbsp;&nbsp;&nbsp;• PostgreSQL, MongoDB  
+&nbsp;&nbsp;&nbsp;&nbsp;• Bootstrap, Tailwind CSS
 
 ### 🎨 UI & Styling
 - <span style="font-size: 16px;">Tailwind CSS, Bootstrap</span>  
