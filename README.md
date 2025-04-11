@@ -6,7 +6,7 @@
 
 <table>
   <tr>
-    <!-- Left side: Text -->
+    <!-- Left Column: Points -->
     <td style="width: 60%; vertical-align: top;">
       <ul>
         <li><strong>Full Stack Developer</strong> with strong experience in web and backend technologies</li>
@@ -16,7 +16,7 @@
       </ul>
     </td>
 
-    <!-- Right side: GIF -->
+    <!-- Right Column: GIF -->
     <td style="width: 40%;" align="center">
       <img src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" alt="Coding gif" width="250">
     </td>
