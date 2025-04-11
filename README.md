@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi, I'm Muhammed Shahid C 👋</h1>
 <br>
-
 <h3 align="center">Full Stack Developer | Software Mentor | Tech Enthusiast</h3>
 <br>
 
