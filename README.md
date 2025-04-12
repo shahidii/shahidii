@@ -49,7 +49,7 @@
 <!--   <a href="https://dev.to/shahidcodez" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" />
   </a> -->
-  <a href="https://www.linkedin.com/in/muhammed-shahid-c-dev/" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammedshahidc/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 <!--   <a href="https://instagram.com/shahiid.io" target="_blank">
