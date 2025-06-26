@@ -6,6 +6,7 @@
 <h3 align="center">Full Stack Developer | Software Mentor | Tech Enthusiast</h3>
 <br>
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammedshahidc) [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](http://shahidii.me/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/shahidi.ii/) 
 <table>
   <tr>
     <td style="list-style: none; font-size: 16px; font-weight: 600; line-height: 2;">
